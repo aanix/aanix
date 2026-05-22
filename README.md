@@ -61,7 +61,7 @@ Building scalable web applications and exploring AI-powered automation.
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanix&show_icons=true&theme=tokyonight)
 
