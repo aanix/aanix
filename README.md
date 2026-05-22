@@ -60,6 +60,14 @@ Building scalable web applications and exploring AI-powered automation.
 
 ---
 
+
+## 📊 GitHub Stats
+
+![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanix&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanix&layout=compact&theme=tokyonight)
+
+
 ##  Connect With Me
 
 - LinkedIn: www.linkedin.com/in/anchal-adiwal-3729143b1
